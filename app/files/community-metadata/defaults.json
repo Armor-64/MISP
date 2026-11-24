@@ -281,3 +281,20 @@
     "self_registration": false
   }
 ]
+
+{
+  "name": "Armored-PCs Cyber Security",
+  "logo": "https://www.armoredpcs.gr/images/NavLogo.png",
+  "uuid": "1501b3fc-9f0b-4712-9c4f-fa89b87c9a65",
+  "org_uuid": "28f5a3ef-b5ac-4e1f-8745-e275419e1aac",
+  "org_name": "Armored-PCs",
+  "description": "Information sharing community run by Armored-PCs, a Greek MSP/MSSP providing cybersecurity, penetration testing and code review services, to exchange threat intelligence with its clients and partners.",
+  "url": "https://www.armoredpcs.gr/",
+  "sector": "Cyber Security",
+  "nationality": "Greece",
+  "email": "contact@armoredpcs.gr",
+  "pgp_key": null,
+  "misp_project_vetted": false,
+  "scope_of_data_to_be_shared": "Threat intelligence, indicators of compromise (IoCs), malware samples and vulnerability information",
+  "self_registration": false
+}
